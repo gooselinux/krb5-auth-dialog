@@ -1,0 +1,12 @@
+diff -up krb5-auth-dialog-0.13/help/krb5-auth-dialog.omf.in.seriesid krb5-auth-dialog-0.13/help/krb5-auth-dialog.omf.in
+--- krb5-auth-dialog-0.13/help/krb5-auth-dialog.omf.in.seriesid	2009-10-27 00:10:28.927799943 -0400
++++ krb5-auth-dialog-0.13/help/krb5-auth-dialog.omf.in	2009-10-27 00:12:23.014549879 -0400
+@@ -30,7 +30,7 @@
+     <description>
+       User manual for the Kerberos Network Authentication Dialog
+     </description>
+-    <relation seriesid="62118a88-a670-11d9-9d16-8c554140c753"/>
++    <relation seriesid="08f1353f-49ce-d542-22ba-383c4275714f00"/>
+     <language code="C"/>
+     <rights type="GNU FDL" license.version="1.1" holder="Guido Günther"/>
+   </resource>
